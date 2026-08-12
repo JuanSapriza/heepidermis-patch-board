@@ -848,7 +848,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "patch_gbr",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
